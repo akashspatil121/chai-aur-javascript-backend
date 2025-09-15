@@ -1,0 +1,19 @@
+{
+  "name": "javascript-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deplpoy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "akash patil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
